@@ -1,4 +1,4 @@
-<a href="https://kodi.tv">KODI<a> (XBMC/OSMC/Firestick) audio addon for the <a href="https://anchor.fm/s/35d1dba4/podcast/rss">The Socialist Program</a> podcast.<br>
+<a href="https://kodi.tv">KODI<a> (XBMC/OSMC/Firestick) audio addon for the <a href="https://anchor.fm/thesocialistprogram">The Socialist Program</a> podcast.<br>
 
 <img src="https://github.com/leopheard/thesocialistprogram/blob/master/resources/media/icon.jpg?raw=true" width="200" height="200" alt="image text"><br>
 
