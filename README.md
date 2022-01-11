@@ -1,6 +1,6 @@
 <a href="https://kodi.tv">KODI<a> (XBMC/OSMC/Firestick) audio addon for the <a href="https://anchor.fm/thesocialistprogram">The Socialist Program</a> podcast.<br>
 
-<img src="https://github.com/leopheard/thesocialistprogram/blob/master/resources/media/icon.jpg?raw=true" width="200" height="200" alt="image text"><br>
+<img src="https://github.com/leopheard/thesocialistprogram/blob/master/resources/media/icon.jpg?raw=true" width="200" height="200" alt="The Socialist Program"><br>
 
 News and views about the world for those who want to change it. Socialist commentary and education episodes every week: Tues: In the News | Wed: Capitalism in Crisis | Thurs: The Real Story<br>
 
